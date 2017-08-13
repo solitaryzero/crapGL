@@ -1,0 +1,11 @@
+﻿  BezierGeometry.cpp
+BezierGeometry.cpp(150): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+BezierGeometry.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+BezierGeometry.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 1361 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CrapGL.vcxproj -> C:\Users\sam\documents\visual studio 2015\Projects\CrapGL\Release\CrapGL.exe
+  CrapGL.vcxproj -> C:\Users\sam\documents\visual studio 2015\Projects\CrapGL\Release\CrapGL.pdb (Full PDB)
